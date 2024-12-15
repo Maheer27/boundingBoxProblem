@@ -1,0 +1,6 @@
+@boundingBoxProblem_HostAddress = http://localhost:5262
+
+GET {{boundingBoxProblem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
